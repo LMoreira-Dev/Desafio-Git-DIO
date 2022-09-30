@@ -10,5 +10,8 @@ Após a criação do repositório, foi feita a clonagem através do comando "git
 
 ## Terceiro passo
 
-Edição do Arquivo README.md contendo os passos feitos 
+Criação do arquivo 'Hello.txt' e commit realizado.
 
+## Quarto passo
+
+Descrever todos os tópicos e passos como um "commit registrado" através do README.md
